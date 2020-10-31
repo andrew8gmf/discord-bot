@@ -1,0 +1,12 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/andrew8gmf/discord-bot.git",
+  "author": "andrew8gmf <andrew8gmf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "discord.js": "^12.4.1" 
+  }
+}
